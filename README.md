@@ -1,4 +1,4 @@
-# solarized-colors-for-wsl-bash
+# solarized-dark-colors-for-wsl-bash
 
 Adapted the Ubuntu-fier for use with Solarized Dark, and took away the font installing part, so now all it does is change registry keys.
 

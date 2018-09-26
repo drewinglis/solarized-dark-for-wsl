@@ -1,3 +1,5 @@
-# ubuntu-bash-for-windows
+# solarized-colors-for-wsl-bash
 
-Combined a vbs script that installs the fonts that are present in the current directory in Windows 10 with a PowerShell script that modifies the apperance of the 'Ubuntu on Windows' bash to look like its counterpart in the original Ubuntu. Settings for this found on https://medium.com/@jgarijogarde/make-bash-on-ubuntu-on-windows-10-look-like-the-ubuntu-terminal-f7566008c5c2 and fonts are from http://font.ubuntu.com/ .
+Adapted the Ubuntu-fier for use with Solarized Dark, and took away the font installing part, so now all it does is change registry keys.
+
+You're probably better off just using this [pure registry version](https://gist.github.com/noelbundick/d7d67c1cc9cae8a1cb93240dc7bbe78c).
